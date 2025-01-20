@@ -1,7 +1,7 @@
 import { Geist, Geist_Mono, Faustina } from "next/font/google";
 import "./globals.css";
 
-const inter = Faustina({subsets: ["latin"]});
+const inter = Faustina({ subsets: ["latin"] });
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
